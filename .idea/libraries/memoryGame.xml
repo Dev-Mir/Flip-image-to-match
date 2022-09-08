@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="memoryGame">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/fullProgram/memoryGame.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
